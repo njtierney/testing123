@@ -5,7 +5,7 @@
 #' @export
 praise <- function(name){
 
-  paste("you're the best,",name)
+  paste("you're the best,",name )
 
 }
 
